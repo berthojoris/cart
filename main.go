@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/gin-gonic/gin/routing"
-	"github.com/gin-gonic/gin/config"
+	"cart/routing"
+	"cart/config"
 )
 
 func main() {
