@@ -1,8 +1,8 @@
 package main
 
 import (
-	"gin-framework/routing"
-	"gin-framework/config"
+	"github.com/gin-gonic/gin/routing"
+	"github.com/gin-gonic/gin/config"
 )
 
 func main() {
